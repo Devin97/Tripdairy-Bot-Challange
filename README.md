@@ -3,7 +3,7 @@
 	- Southern Star
 	- Grand Continent
 
-*) Also small talk is enabled so basic grettings can be handled automatically
+*) Also small talk is enabled so basic greetings can be handled automatically
 
 *) Take a look at the example1.jpg and example2.jpg
 
